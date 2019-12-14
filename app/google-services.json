@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "755071988434",
+    "firebase_url": "https://calculadoraflex-zanchetta.firebaseio.com",
+    "project_id": "calculadoraflex-zanchetta",
+    "storage_bucket": "calculadoraflex-zanchetta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755071988434:android:09720ced8dcb9aaa4bb30b",
+        "android_client_info": {
+          "package_name": "br.com.zanchetta.calculadoraflex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755071988434-5o0hutokadve9mi4ootk16o2l4puorvm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.zanchetta.calculadoraflex",
+            "certificate_hash": "80d7aba3af0f29d89e62871ba62e18dd32e7bd9f"
+          }
+        },
+        {
+          "client_id": "755071988434-1bu4nli2sm2c5kf2bggod2n8vtsk0rcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhm32ICSQz_NDwv2n9ZnPKNyeBEsxe-Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755071988434-1bu4nli2sm2c5kf2bggod2n8vtsk0rcr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
